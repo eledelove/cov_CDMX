@@ -18,6 +18,7 @@ password = ""
 
 
 #----------------------- Conexión a la base de datos ---------------------------
+
 db = MySQLDatabase(
     data_base,
     host = host,
